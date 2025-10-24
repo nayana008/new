@@ -69,7 +69,7 @@ body {
 
 .equals {
   background-color: #4caf50;
-  color: white;
+  color: red;
   grid-row: span 2;
 }
 
